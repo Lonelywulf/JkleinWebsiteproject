@@ -38213,7 +38213,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
  .u-header {
-  background-image: none;
+  background-image: linear-gradient(white, #e5e5e5);
+  box-shadow: 0px 2px 8px 0px rgba(128,128,128,1);
 }
 
 .u-header .u-sheet-1 {
